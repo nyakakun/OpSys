@@ -1,0 +1,13 @@
+﻿int main()
+{
+    string name;
+    cin >> name;
+    cout << "Hello, " << name "!" << endl;
+    if( name != "Diana")
+    {
+        return 1;
+    }
+    char ch = '3';
+    int i = 2.2;
+    return 0;  
+}

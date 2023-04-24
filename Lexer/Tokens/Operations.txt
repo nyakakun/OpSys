@@ -1,0 +1,20 @@
+﻿(:Left bracket
+):Right bracket
+{:Left curly bracket
+}:Right curly bracket
+;:Semicolon
++:Plus
+-:Minus
+*:Multiply
+/:Divide
+=:Assign
+!=:Not exact
+==:Equal
+>:More
+<:Less
+<= :Less or equal
+>= :More or equal
+||:Or
+&&:And
+<<:Left bit shift
+>>:Right bit shift

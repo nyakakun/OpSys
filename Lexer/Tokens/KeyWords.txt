@@ -1,0 +1,15 @@
+﻿return:Return
+int:Type
+string:Type
+char:Type
+bool:Type
+float:Type
+true:True
+false:False
+for:Keyword
+while:Keyword
+if:Keyword
+break:Keyword
+auto:Keyword
+void:Keyword
+const:Keyword
